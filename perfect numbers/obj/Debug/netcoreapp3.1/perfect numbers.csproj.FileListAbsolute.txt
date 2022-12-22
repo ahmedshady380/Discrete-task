@@ -1,0 +1,14 @@
+C:\Users\MAGIC LAPTOP\source\repos\perfect numbers\perfect numbers\bin\Debug\netcoreapp3.1\perfect numbers.exe
+C:\Users\MAGIC LAPTOP\source\repos\perfect numbers\perfect numbers\bin\Debug\netcoreapp3.1\perfect numbers.deps.json
+C:\Users\MAGIC LAPTOP\source\repos\perfect numbers\perfect numbers\bin\Debug\netcoreapp3.1\perfect numbers.runtimeconfig.json
+C:\Users\MAGIC LAPTOP\source\repos\perfect numbers\perfect numbers\bin\Debug\netcoreapp3.1\perfect numbers.runtimeconfig.dev.json
+C:\Users\MAGIC LAPTOP\source\repos\perfect numbers\perfect numbers\bin\Debug\netcoreapp3.1\perfect numbers.dll
+C:\Users\MAGIC LAPTOP\source\repos\perfect numbers\perfect numbers\bin\Debug\netcoreapp3.1\perfect numbers.pdb
+C:\Users\MAGIC LAPTOP\source\repos\perfect numbers\perfect numbers\obj\Debug\netcoreapp3.1\perfect numbers.csproj.AssemblyReference.cache
+C:\Users\MAGIC LAPTOP\source\repos\perfect numbers\perfect numbers\obj\Debug\netcoreapp3.1\perfect numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAGIC LAPTOP\source\repos\perfect numbers\perfect numbers\obj\Debug\netcoreapp3.1\perfect numbers.AssemblyInfoInputs.cache
+C:\Users\MAGIC LAPTOP\source\repos\perfect numbers\perfect numbers\obj\Debug\netcoreapp3.1\perfect numbers.AssemblyInfo.cs
+C:\Users\MAGIC LAPTOP\source\repos\perfect numbers\perfect numbers\obj\Debug\netcoreapp3.1\perfect numbers.csproj.CoreCompileInputs.cache
+C:\Users\MAGIC LAPTOP\source\repos\perfect numbers\perfect numbers\obj\Debug\netcoreapp3.1\perfect numbers.dll
+C:\Users\MAGIC LAPTOP\source\repos\perfect numbers\perfect numbers\obj\Debug\netcoreapp3.1\perfect numbers.pdb
+C:\Users\MAGIC LAPTOP\source\repos\perfect numbers\perfect numbers\obj\Debug\netcoreapp3.1\perfect numbers.genruntimeconfig.cache

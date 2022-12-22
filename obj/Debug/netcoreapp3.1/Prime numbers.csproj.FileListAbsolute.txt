@@ -1,0 +1,14 @@
+C:\Users\MAGIC LAPTOP\source\repos\Prime numbers\Prime numbers\bin\Debug\netcoreapp3.1\Prime numbers.exe
+C:\Users\MAGIC LAPTOP\source\repos\Prime numbers\Prime numbers\bin\Debug\netcoreapp3.1\Prime numbers.deps.json
+C:\Users\MAGIC LAPTOP\source\repos\Prime numbers\Prime numbers\bin\Debug\netcoreapp3.1\Prime numbers.runtimeconfig.json
+C:\Users\MAGIC LAPTOP\source\repos\Prime numbers\Prime numbers\bin\Debug\netcoreapp3.1\Prime numbers.runtimeconfig.dev.json
+C:\Users\MAGIC LAPTOP\source\repos\Prime numbers\Prime numbers\bin\Debug\netcoreapp3.1\Prime numbers.dll
+C:\Users\MAGIC LAPTOP\source\repos\Prime numbers\Prime numbers\bin\Debug\netcoreapp3.1\Prime numbers.pdb
+C:\Users\MAGIC LAPTOP\source\repos\Prime numbers\Prime numbers\obj\Debug\netcoreapp3.1\Prime numbers.csproj.AssemblyReference.cache
+C:\Users\MAGIC LAPTOP\source\repos\Prime numbers\Prime numbers\obj\Debug\netcoreapp3.1\Prime numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAGIC LAPTOP\source\repos\Prime numbers\Prime numbers\obj\Debug\netcoreapp3.1\Prime numbers.AssemblyInfoInputs.cache
+C:\Users\MAGIC LAPTOP\source\repos\Prime numbers\Prime numbers\obj\Debug\netcoreapp3.1\Prime numbers.AssemblyInfo.cs
+C:\Users\MAGIC LAPTOP\source\repos\Prime numbers\Prime numbers\obj\Debug\netcoreapp3.1\Prime numbers.csproj.CoreCompileInputs.cache
+C:\Users\MAGIC LAPTOP\source\repos\Prime numbers\Prime numbers\obj\Debug\netcoreapp3.1\Prime numbers.dll
+C:\Users\MAGIC LAPTOP\source\repos\Prime numbers\Prime numbers\obj\Debug\netcoreapp3.1\Prime numbers.pdb
+C:\Users\MAGIC LAPTOP\source\repos\Prime numbers\Prime numbers\obj\Debug\netcoreapp3.1\Prime numbers.genruntimeconfig.cache
